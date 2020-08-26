@@ -11,28 +11,12 @@
 
 ## Husband, Developer, Designer and Coffee Lover!
 
-### Let's connect!
-
-[<img align="left" alt="mikolajzywczok.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="mikolajzywczok | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="mikolajzywczok | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mikolajzywczok | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-<br />
-
-
 [![Website](https://img.shields.io/website?label=mikolajzywczok.com&style=for-the-badge&url=http%3A%2F%2Fmikolajzywczok.com)](http://mikolajzywczok.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/MZywczok?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fzywmik&screen_name=MZywczok)
+<br />
+<br />
 
-
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love capoeira, calisthenics and playing guitar
-
-
-### Technologies that I'm using:
+### 💻 Technologies I'm using:
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
@@ -61,37 +45,29 @@
 <br />
 <br />
 
----
 
-### 📕 My Articles
+### ✒ Articles I've written
 
 - [Pros & Cons of React. (in polish)](https://geek.justjoin.it/zalety-wady-reactjs)
 - [Concurrent Mode in React. (in polish)](https://geek.justjoin.it/nowosc-reactjs)
+<br />
+<br />
 
----
-
-### Spotify Playing 🎧
+### 🎧 Music I'm listening to
 
 [![Spotify](https://novatorem.zywmik.vercel.app/api/spotify)](https://open.spotify.com/user/1192207344)
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
+---
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+[<img align="left" alt="mikolajzywczok.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="mikolajzywczok | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="mikolajzywczok | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mikolajzywczok | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br />
+<br />
 
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="zywmik's Github Stats" src="https://github-readme-stats.zywmik.vercel.app/api?username=zywmik&show_icons=true&hide_border=true&count_private=true" />
-
-[![Top Langs](https://github-readme-stats.zywmik.vercel.app/api/top-langs/?username=zywmik)](https://github.com/zywmik/github-readme-stats)
-
-</details>
 
 [website]: https://mikolajzywczok.com
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/MZywczok
 [instagram]: https://www.instagram.com/mikolaj_zywczok/
 [linkedin]: https://www.linkedin.com/in/mikolajzywczok-689a1a15a/
