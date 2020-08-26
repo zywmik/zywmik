@@ -1,20 +1,10 @@
-<!-- TODO
-  1. update twitter info everywhere
-  2. add articles section NOTE done
-  3. update technologies section NOTE done
-  4. change http -> https
-  5. organize sections
-  6. do you really need that website and instagram folow buttons?
- -->
-
 # Hi there, I'm Mikołaj 👋
 
 ## Husband, Developer, Designer and Coffee Lover!
 
 [![Website](https://img.shields.io/website?label=mikolajzywczok.com&style=for-the-badge&url=http%3A%2F%2Fmikolajzywczok.com)](http://mikolajzywczok.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MZywczok?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fzywmik&screen_name=MZywczok)
-<br />
-<br />
+<br /> <br />
 
 ### 💻 Technologies I'm using:
 
@@ -45,13 +35,10 @@
 <br />
 <br />
 
-
 ### ✒ Articles I've written
 
 - [Pros & Cons of React. (in polish)](https://geek.justjoin.it/zalety-wady-reactjs)
 - [Concurrent Mode in React. (in polish)](https://geek.justjoin.it/nowosc-reactjs)
-<br />
-<br />
 
 ### 🎧 Music I'm listening to
 
@@ -63,9 +50,6 @@
 [<img align="left" alt="mikolajzywczok | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="mikolajzywczok | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mikolajzywczok | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br />
-<br />
-
 
 [website]: https://mikolajzywczok.com
 [twitter]: https://twitter.com/MZywczok
