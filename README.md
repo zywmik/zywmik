@@ -1,10 +1,8 @@
 # Hi there, I'm Mikołaj 👋
 
-## Husband, Developer, Designer and Coffee Lover!
+## Developer, Designer, Husband and Coffee Lover!
 
 [![Website](https://img.shields.io/website?label=mikolajzywczok.com&style=for-the-badge&url=http%3A%2F%2Fmikolajzywczok.com)](http://mikolajzywczok.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/MZywczok?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fzywmik&screen_name=MZywczok)
-<br /> <br />
 
 ### 💻 Technologies I'm using:
 
