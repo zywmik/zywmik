@@ -1,8 +1,6 @@
-# Hi there, I'm Mikołaj 👋
+<img alt="Introduction" width="100%" src="./linkedin-banner.png" />
 
-## Developer, Designer, Husband and Coffee Lover!
-
-[![Website](https://img.shields.io/website?label=mikolajzywczok.com&style=for-the-badge&url=http%3A%2F%2Fmikolajzywczok.com)](http://mikolajzywczok.com)
+<br />
 
 ### 💻 Technologies I'm using:
 
@@ -43,6 +41,8 @@
 [![Spotify](https://novatorem.zywmik.vercel.app/api/spotify)](https://open.spotify.com/user/1192207344)
 
 ---
+
+[![Website](https://img.shields.io/website?label=mikolajzywczok.com&style=for-the-badge&url=http%3A%2F%2Fmikolajzywczok.com)](http://mikolajzywczok.com)
 
 [<img align="left" alt="mikolajzywczok.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="mikolajzywczok | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
