@@ -33,8 +33,9 @@
 
 ### ✒ Articles I've written
 
-- [Pros & Cons of React. (in polish)](https://geek.justjoin.it/zalety-wady-reactjs)
+- [Frontend and Physics. How springs can help you create glamorous animations. (in polish)](https://geek.justjoin.it/fizyka-na-frontendzie-jak-sprezyny-moga-pomoc-w-tworzeniu-efektownych-animacji)
 - [Concurrent Mode in React. (in polish)](https://geek.justjoin.it/nowosc-reactjs)
+- [Pros & Cons of React. (in polish)](https://geek.justjoin.it/zalety-wady-reactjs)
 
 ### 🎧 Music I'm listening to
 
